@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "Vertical Magenta To Cyan": {
+      "commandName": "Project",
+      "commandLineArgs": "#f0f 5% #0ff 75% -v v-mc.png"
+    },
+    "Magenta To Cyan": {
+      "commandName": "Project",
+      "commandLineArgs": "#f0f 5% #0ff 75% mc.png"
+    },
+    "Cyan To Magenta To Orange To Magenta": {
+      "commandName": "Project",
+      "commandLineArgs": "#0ff 12.5% #f0f 47.5% #f0f 50% #ffC000 50% #ffC000 52.5% #f0f 87.5% cm-om.png"
+    },
+    "Vertical Cyan To Magenta And Orange To Magenta": {
+      "commandName": "Project",
+      "commandLineArgs": "#0ff 12.5% #f0f 47.5% #f0f 50% #ffC000 50% #ffC000 52.5% #f0f 87.5% /r /v v-cm-om.png"
+    },
+    "Small Yellow To Red": {
+      "commandName": "Project",
+      "commandLineArgs": "#ff0 #f00 /h /s 16 yr.png"
+    },
+    "Hues": {
+      "commandName": "Project",
+      "commandLineArgs": "#f00 #ff0 #0f0 #0ff #00f #f0f #f00 hues.png"
+    },
+    "Blue And Yellow": {
+      "commandName": "Project",
+      "commandLineArgs": "blue 30% yellow blue 50% blue-and-yellow.png"
+    }
+  }
+}
